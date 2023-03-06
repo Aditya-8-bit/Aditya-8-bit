@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-8-bit
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning |redacted|
 - If u can, teach me how to use use Github.
 - Thanks!
